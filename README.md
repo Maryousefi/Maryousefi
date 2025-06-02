@@ -29,11 +29,18 @@ I build reliable, scalable AI systems that bridge cutting-edge research and real
 </p>
 
 ---
-
 ## Contact
 
-- **LinkedIn**: [www.linkedin.com/in/maryousefi]
-- **HuggingFace**: [https://huggingface.co/Maryousefi]
-- **Kaggle**: [https://www.kaggle.com/maryousefi/]
+<p align="center">
 
-Feel free to reach out for academic collaborations, applied research opportunities, or technical discussions.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryousefi) &nbsp;&nbsp;&nbsp;
+
+  [![HuggingFace](https://img.shields.io/badge/HuggingFace-00AABB?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Maryousefi) &nbsp;&nbsp;&nbsp;
+
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maryousefi/)
+
+</p>
+
+<p align="center" style="margin-top: 10px; font-style: italic; color: #0077B6; font-size: 1rem;">
+  Feel free to reach out for academic collaborations, applied research, or technical discussions.
+</p>

@@ -21,12 +21,12 @@ I build reliable, scalable AI systems that bridge cutting-edge research and real
 </p>
 
 ---
-
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maryousefi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="340" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryousefi&layout=compact&theme=radical" alt="Top Languages" width="340" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maryousefi&show_icons=true&theme=blueberry&count_private=true" alt="GitHub Stats" width="300" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maryousefi&theme=blueberry&row=1&column=1" alt="GitHub Trophy" width="300" height="180" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryousefi&theme=react" alt="Contribution Graph" width="300" height="180" />
 </p>
 
 ---

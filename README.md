@@ -1,8 +1,12 @@
 <h1 align="center">Hi there, I'm Maryam Yousefi </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Maryousefi?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Maryousefi?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars">
+
+  <img src="https://img.shields.io/github/followers/Maryousefi?label=Followers&style=social" alt="GitHub Followers" />  
+  <img src="https://img.shields.io/github/stars/Maryousefi?style=social" alt="GitHub Stars" />  
+  <img src="https://img.shields.io/github/repo-size/Maryousefi?style=flat" alt="Repo Size" />  
+  <img src="https://img.shields.io/github/languages/top/Maryousefi?style=flat" alt="Top Language" />  
+  <img src="https://img.shields.io/github/last-commit/Maryousefi?style=flat" alt="Last Commit" />  
 </p>
 
 ---

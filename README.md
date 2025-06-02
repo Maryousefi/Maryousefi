@@ -17,7 +17,7 @@ I build reliable, scalable AI systems that bridge cutting-edge research and real
   <img src="https://img.shields.io/badge/Computer_Vision-004e64?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />&#8203;
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-005f73?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NLP" />&#8203;
   <img src="https://img.shields.io/badge/Data%20Science-00707a?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" />&#8203;
-  <img src="https://img.shields.io/badge/Model%20Optimization-006d77?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Optimization" />&#8203;
+  <img src="https://img.shields.io/badge/Model%20Optimization-005f66?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Optimization" />&#8203;
   <img src="https://img.shields.io/badge/Explainable%20AI-003f5c?style=for-the-badge" alt="Explainable AI" />
 </p>
 

@@ -1,6 +1,8 @@
-<h1 align="center" style="color:#003f5c;">Hi there, I'm Maryam </h1>
+<p align="center" style="color: #003f5c; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.8rem; font-weight: 800; letter-spacing: 1px; margin-bottom: 0.25rem;">
+  Hi there, I'm Maryam
+</p>
 
----
+<hr style="width: 80px; border: 2px solid #001f3f; margin: 0 auto 1.5rem auto; border-radius: 2px;" />
 
 ## About Me
 

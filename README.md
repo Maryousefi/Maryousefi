@@ -1,8 +1,8 @@
-<p align="center" style="color: #003f5c; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.8rem; font-weight: 800; letter-spacing: 1px; margin-bottom: 0.25rem;">
+<h1 align="center" style="color:#003f5c; font-size: 3.6rem; font-weight: 900; letter-spacing: 1.5px; margin-bottom: 0.5rem;">
   Hi there, I'm Maryam
-</p>
+</h1>
 
-<hr style="width: 80px; border: 2px solid #001f3f; margin: 0 auto 1.5rem auto; border-radius: 2px;" />
+<hr style="width: 100px; border: 3px solid #001f3f; margin: 0 auto 2rem auto; border-radius: 3px;" />
 
 ## About Me
 

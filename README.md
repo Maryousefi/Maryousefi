@@ -32,16 +32,18 @@ I build reliable, scalable AI systems that bridge cutting-edge research and real
 ---
 ## Contact
 
-<p align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-003f5c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryousefi) &nbsp;&nbsp;&nbsp;
-
-  [![HuggingFace](https://img.shields.io/badge/HuggingFace-006d77?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Maryousefi) &nbsp;&nbsp;&nbsp;
-
-  [![Kaggle](https://img.shields.io/badge/Kaggle-005f73?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maryousefi/)
-
+<p align="center" style="margin-bottom: 0.5rem;">
+  <a href="https://www.linkedin.com/in/maryousefi" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 6px;" />
+  </a>
+  <a href="https://huggingface.co/Maryousefi" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/HuggingFace-009eeb?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" style="border-radius: 6px;" />
+  </a>
+  <a href="https://www.kaggle.com/maryousefi/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="border-radius: 6px;" />
+  </a>
 </p>
 
-<p align="center" style="margin-top: 10px; font-style: italic; color: #003f5c; font-size: 1rem;">
+<p align="center" style="margin-top: 0; font-style: italic; color: #1a1a1a; font-size: 1rem; max-width: 500px; margin-left: auto; margin-right: auto;">
   Feel free to reach out for academic collaborations, applied research, or technical discussions.
 </p>

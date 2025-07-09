@@ -1,13 +1,12 @@
-<h1 align="center" style="color:#003f5c; font-size: 2.4rem; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 1rem; font-family: Arial, sans-serif;">
+<h1 align="center" style="color:#003f5c; font-size: 1.4rem; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 1rem; font-family: Arial, sans-serif;">
   Hi there, I'm Maryam
 </h1>
 
 
-<p style="color:#005f73;">
-I build robust, scalable ML and generative AI systems—bridging research and production with interpretable, uncertainty-aware, and ethical models.
-</p>
+<p align="center" style="color:#005f73;">
+I fix bad pixels & bad models!</p>
 
----
+
 ## Technical Skills
 
 <p align="center">
@@ -21,7 +20,7 @@ I build robust, scalable ML and generative AI systems—bridging research and pr
   <img src="https://img.shields.io/badge/Explainable%20AI-90e0ef?style=for-the-badge" alt="Explainable AI" />
 </p>
 
----
+
 
 ## Contact
 

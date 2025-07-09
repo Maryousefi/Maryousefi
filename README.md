@@ -4,7 +4,7 @@
 
 
 <p align="center" style="color:#005f73;">
-I fix bad pixels & bad models!</p>
+I create better pixels and smarter models.</p>
 
 
 ## Technical Skills
@@ -14,10 +14,8 @@ I fix bad pixels & bad models!</p>
   <img src="https://img.shields.io/badge/Deep%20Learning-006d77?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />&#8203;
   <img src="https://img.shields.io/badge/Computer%20Vision-014f86?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />&#8203;
   <img src="https://img.shields.io/badge/Generative%20AI-0077b6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />&#8203;
-  <img src="https://img.shields.io/badge/NLP-0096c7?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NLP" />&#8203;
   <img src="https://img.shields.io/badge/Data%20Science-00b4d8?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" />&#8203;
   <img src="https://img.shields.io/badge/Model%20Optimization-48cae4?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Model Optimization" />&#8203;
-  <img src="https://img.shields.io/badge/Explainable%20AI-90e0ef?style=for-the-badge" alt="Explainable AI" />
 </p>
 
 
